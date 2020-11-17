@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NguyenDucHuy</string>
+    <string name="api_key">08672dc6121f33a2f844ab8e1df99501</string>
+    <string name="url_image">https://image.tmdb.org/t/p/w500/</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="popular">Popular</string>
+    <string name="now_playing">Now Playing</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="trailer">Trailer</string>
+    <string name="similar_video">Các phim liên quan</string>
+    <string name="recommendations">Các phim khuyến khích</string>
+    <string name="search">Tìm kiếm</string>
+</resources>
